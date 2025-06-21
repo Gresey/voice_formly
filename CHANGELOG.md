@@ -1,7 +1,12 @@
 # Changelog
 
+## [0.0.2] 
 
-## [0.0.1] - 2025-06-20
+### Fixed
+- Corrected image links for pub.dev compatibility.
+
+## [0.0.1] 
+ 
 
 ### Added
 - Initial release of `voice_formly`.
@@ -11,4 +16,6 @@
 - Support for custom validators.
 - Custom styling options for borders, padding, and font size.
 - Integrated date picker for date field type.
+
+
 
