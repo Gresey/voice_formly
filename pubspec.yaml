@@ -1,5 +1,5 @@
 name: voice_formly
-description: "A new Flutter package project."
+description: "A dart package for building form fields with speech-to-text and built-in validation."
 version: 0.0.1
 homepage: https://github.com/Gresey/voice_formly
 repository: https://github.com/Gresey/voice_formly
