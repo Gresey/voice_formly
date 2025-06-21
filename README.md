@@ -24,8 +24,12 @@
     <th>Voice Input in Action</th>
   </tr>
   <tr>
-    <td><img src="assets/form_validation.jpg" width="250"/></td>
-    <td><img src="assets/demo.gif" width="250"/></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/67db9079-0069-413f-93b5-8ec2c7b7a76e" width="250" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b72772b4-3f00-4d6a-a41a-79e5b8c1a853" width="250" />
+    </td>
   </tr>
 </table>
 
