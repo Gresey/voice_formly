@@ -1,6 +1,6 @@
 name: voice_formly
 description: "A dart package for building form fields with speech-to-text and built-in validation."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Gresey/voice_formly
 repository: https://github.com/Gresey/voice_formly
 issue_tracker: https://github.com/Gresey/voice_formly/issues

@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.3]
+
+### Added
+- `VoiceFormField` now **requires `onMicTap`** when `enableVoice` is `true`, improving clarity and control over mic interactions.
+
 ## [0.0.2] 
 
 ### Fixed
