@@ -20,15 +20,15 @@
 ##  Screenshots
 <table>
   <tr>
-    <th>Validation Error</th>
-    <th>Voice Input in Action</th>
+    <th style="text-align:center;">Validation Error</th>
+    <th style="text-align:center;">Voice Input in Action</th>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/67db9079-0069-413f-93b5-8ec2c7b7a76e" width="250" />
+    <td align="center">
+      <img src="assets/form_validation.jpg" width="200"/>
     </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/b72772b4-3f00-4d6a-a41a-79e5b8c1a853" width="250" />
+    <td align="center">
+      <img src="assets/demo.gif" width="200"/>
     </td>
   </tr>
 </table>
