@@ -3,9 +3,9 @@
 
 `voice_formly` is a customizable Flutter form field widget that adds **built-in validation** and **speech-to-text input** support. It simplifies voice-powered form handling and allows users to build accessible and modern form experiences faster.
 
----
 
-## ✨ Features
+
+##  Features
 
 - 🎤 Voice input (speech-to-text) for supported fields (text, email, phone, multiline, etc.)
 - 🛡️ Built-in smart validation for common fields (email, number, phone)
@@ -14,26 +14,29 @@
 - 🎨 Easily configurable with styling, hints, borders, icons
 - 📆 Integrated date picker for date fields
 
----
 
 
-## 📸 Screenshots
+
+##  Screenshots
 <table>
   <tr>
     <th>Validation Error</th>
     <th>Voice Input in Action</th>
   </tr>
   <tr>
-    <td><img src="assets/form_validation.jpg" width="250"/></td>
-    <td><img src="assets/demo.gif" width="250"/></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/67db9079-0069-413f-93b5-8ec2c7b7a76e" width="250" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b72772b4-3f00-4d6a-a41a-79e5b8c1a853" width="250" />
+    </td>
   </tr>
 </table>
 
----
 
 
 
-## 🚀 Getting started
+## Getting started
 
 Add the package to your `pubspec.yaml`:
 
@@ -48,9 +51,9 @@ Import it in your Dart file:
 import 'package:voice_formly/voice_formly.dart';
 ```
 
----
 
-## 💡 Usage Example
+
+##  Usage Example
 
 ```dart
 VoiceFormField(
@@ -69,7 +72,7 @@ VoiceFormField(
 )
 ```
 
----
+
 
 ## 🧾 VoiceFormField Parameters
 
